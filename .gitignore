@@ -1,0 +1,14 @@
+# IntelliJ / VS Code / Eclipse
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+
+# Maven / Gradle build outputs (אם נוסיף בהמשך)
+target/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
