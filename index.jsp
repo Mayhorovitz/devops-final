@@ -44,7 +44,7 @@
   </head>
   <body>
     <div class="card p-5 text-center" style="max-width: 420px">
-      <h1 class="mb-3 fw-bold text-teal">Welcome!!!!</h1>
+      <h1 class="mb-3 fw-bold text-teal">Welcome!</h1>
       <p class="lead mb-4">
         Enter your name and start exploring our DevOps demo application.
       </p>
